@@ -3,3 +3,4 @@ https://medium.com/@thecodebean/implementing-csrf-security-in-a-spring-boot-appl
 
 남은 작업
 폼을 다른 근원(origin)에서 발송하기.
+- 참고 교습 페이지: https://www.baeldung.com/spring-security-csrf#3-practical-simulation
