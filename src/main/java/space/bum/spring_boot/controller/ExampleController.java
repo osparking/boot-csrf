@@ -1,4 +1,4 @@
-package space.bum.spring_boot.config;
+package space.bum.spring_boot.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
